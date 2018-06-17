@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7200da</color>
+    <color name="colorPrimaryDark">#6a60a9</color>
+    <color name="colorAccent">#fbd14b</color>
+    <color name="colorFood">#f8ecc9</color>
+    <color name="colorCulture">#CADBE9</color>
+    <color name="colorArtist">#D9D4CF</color>
+    <color name="colorEmbassy">#ABD0CE</color>
+    <color name="colorImageBackground">#e3dede</color>
+</resources>

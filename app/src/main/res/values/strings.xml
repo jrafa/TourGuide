@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Tour Guide - Saska Kępa</string>
+    <string name="food_title">Food</string>
+    <string name="culture_title">Culture</string>
+    <string name="artist_title">Artists</string>
+    <string name="embassy_title">Embassies</string>
+
+    <string-array name="food_drink">
+        <item>Piccola Italia</item>
+        <item>Naam Thai</item>
+        <item>Santorini</item>
+        <item>Pinsa</item>
+        <item>Bella Napoli di Enzo Rossi</item>
+        <item>Prosta Historia</item>
+        <item>Złoto Hiszpanii</item>
+    </string-array>
+
+    <string-array name="food_drink_addresses">
+        <item>Francuska 11</item>
+        <item>Saska 16</item>
+        <item>Egipska 7</item>
+        <item>Francuska 6</item>
+        <item>Francuska 18</item>
+        <item>Francuska 24</item>
+        <item>Francuska 26</item>
+    </string-array>
+
+    <string-array name="culture">
+        <item>PROM Community Centre</item>
+        <item>National Stadium</item>
+    </string-array>
+
+    <string-array name="culture_addresses">
+        <item>Brukselska 23</item>
+        <item>Poniatowskiego 1</item>
+    </string-array>
+
+    <string-array name="embassies">
+        <item>Embassy of Argentina</item>
+        <item>Embassy of Azerbaijan</item>
+        <item>Embassy of Brazil</item>
+        <item>Embassy of Colombia</item>
+        <item>Embassy of Eqypt</item>
+        <item>Embassy of Georgia</item>
+        <item>Embassy of Indonesia</item>
+        <item>Embassy of Iran</item>
+        <item>Embassy of Iraq</item>
+        <item>Embassy of Latvia</item>
+        <item>Embassy of Portugal</item>
+        <item>Embassy of Turkey</item>
+    </string-array>
+
+    <string-array name="embassies_addresses">
+        <item>Brukselska 9</item>
+        <item>Zwycięzców 12</item>
+        <item>Bajońska 15</item>
+        <item>Zwycięzców 29</item>
+        <item>Alzacka 18</item>
+        <item>Kryniczna 2</item>
+        <item>Estońska 3/5</item>
+        <item>Królowej Aldony 22</item>
+        <item>Dąbrowiecka 9A</item>
+        <item>Królowej Aldony 19</item>
+        <item>Ateńska 37</item>
+        <item>Królowej Aldony 18</item>
+    </string-array>
+
+    <string-array name="artists">
+        <item>Agnieszka Osiecka</item>
+        <item>Edyta Geppert</item>
+    </string-array>
+
+    <string-array name="artists_profession">
+        <item>poet, writer, director, journalist</item>
+        <item>singer</item>
+    </string-array>
+</resources>

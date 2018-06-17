@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_food_fragment"
+            android:icon="@drawable/ic_food"
+            android:title="@string/food_title" />
+        <item
+            android:id="@+id/nav_culture_fragment"
+            android:icon="@drawable/ic_culture"
+            android:title="@string/culture_title" />
+        <item
+            android:id="@+id/nav_embassy_fragment"
+            android:icon="@drawable/ic_embassy"
+            android:title="@string/embassy_title" />
+        <item
+            android:id="@+id/nav_artist_fragment"
+            android:icon="@drawable/ic_artist"
+            android:title="@string/artist_title" />
+    </group>
+</menu>
